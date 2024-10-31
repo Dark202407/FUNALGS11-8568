@@ -28,3 +28,4 @@ for (int x = 0; x < edificio2.Length; x++) {
 
 Console.WriteLine("Primera Corrección");
 Console.WriteLine("Segunda Corrección");
+Console.WriteLine("Segunda Corrección");
